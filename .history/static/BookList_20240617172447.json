@@ -1,0 +1,400 @@
+[
+  {
+    "id": 1,
+    "src": "/static/images/booklist/重构 改善既有代码的设计(第2版).png",
+    "name": "重构 改善既有代码的设计(第2版)",
+    "author": "马丁•福勒",
+    "language": "中文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 2,
+    "src": "/static/images/booklist/AI for Absolute Beginners.png",
+    "name": "AI for Absolute Beginners.png",
+    "author": "Oliver Theobald",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 3,
+    "src": "/static/images/booklist/Web Scraping with Python 3rd Edition.png",
+    "name": "Web Scraping with Python 3rd Edition",
+    "author": "Ryan Mitchell",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 4,
+    "src": "/static/images/booklist/Statistical Tableau.png",
+    "name": "Statistical Tableau",
+    "author": "Ethan Lang",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 5,
+    "src": "/static/images/booklist/Software Engineering for Data Scientists.png",
+    "name": "Software Engineering for Data Scientists",
+    "author": "Catherine Nelson",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+
+  {
+    "id": 6,
+    "src": "/static/images/booklist/Predictive Analytics for the Modern Enterprise.png",
+    "name": "Predictive Analytics for the Modern Enterprise",
+    "author": "Nooruddin Abbas Ali",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 7,
+    "src": "/static/images/booklist/Modern Data Analytics in Excel.png",
+    "name": "Modern Data Analytics in Excel",
+    "author": "George Mount",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 8,
+    "src": "/static/images/booklist/Linkerd Up and Running.png",
+    "name": "Linkerd Up and Running.png",
+    "author": "Jason Morgan and Flynn",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 9,
+    "src": "/static/images/booklist/Learning DevSecOps.png",
+    "name": "Learning DevSecOps",
+    "author": "Steve Suehring",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 10,
+    "src": "/static/images/booklist/Excel Cookbook.png",
+    "name": "Excel Cookbook",
+    "author": "Dawn Griffiths",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 11,
+    "src": "/static/images/booklist/Effective TypeScript 2nd Edition.png",
+    "name": "Effective TypeScript 2nd Edition",
+    "author": "Dan Vanderkam",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 12,
+    "src": "/static/images/booklist/Building Multi-Tenant SaaS Architectures.png",
+    "name": "Building Multi-Tenant SaaS Architectures",
+    "author": "Tod Golding",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 13,
+    "src": "/static/images/booklist/Apache Iceberg The Definitive Guide.png",
+    "name": "Apache Iceberg The Definitive Guide",
+    "author": "Tomer Shiran, Jason Hughes, and Alex Merced",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 14,
+    "src": "/static/images/booklist/Adversary Emulation with MITRE ATT&CK.png",
+    "name": "Adversary Emulation with MITRE ATT&CK",
+    "author": "Drinor Selmanaj",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 15,
+    "src": "/static/images/booklist/Neural Networks and Deep Learning 2nd Edition.png",
+    "name": "Neural Networks and Deep Learning 2nd Edition",
+    "author": "Charu C. Aggarwal",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 16,
+    "src": "/static/images/booklist/Spring Security in Action 2nd Edition.png",
+    "name": "Spring Security in Action 2nd Edition",
+    "author": "Laurențiu Spilcă",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 17,
+    "src": "/static/images/booklist/Grokking Web Application Security.png",
+    "name": "Grokking Web Application Security",
+    "author": "Ángel Sola Orbaiceta",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 18,
+    "src": "/static/images/booklist/Elixir in Action 3rd Edition.png",
+    "name": "Elixir in Action 3rd Edition",
+    "author": "Saša Jurić",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 19,
+    "src": "/static/images/booklist/Build a Frontend Web Framework (From Scratch).png",
+    "name": "Build a Frontend Web Framework From Scratch",
+    "author": "Avani Trivedi",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2023
+  },
+  {
+    "id": 20,
+    "src": "/static/images/booklist/100 Java Mistakes and How to Avoid Them.png",
+    "name": "100 Java Mistakes and How to Avoid Them",
+    "author": "Ángel Sola Orbaiceta",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 21,
+    "src": "/static/images/booklist/Learning Blend 3rd Edition.png",
+    "name": "Learning Blend 3rd Edition",
+    "author": "Saša Jurić",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 22,
+    "src": "/static/images/booklist/Learn Python The Hard Way 5th Edition.png",
+    "name": "Learn Python The Hard Way 5th Edition",
+    "author": "Avani Trivedi",
+    "language": "英文",
+    "AuthorID": 2,
+
+    "publicationYear": 2024
+  },
+  {
+    "id": 23,
+    "src": "/static/images/booklist/Learn Enough Ruby To Be Dangerous.png",
+    "name": "Learn Enough Ruby To Be Dangerous",
+    "author": "Ángel Sola Orbaiceta",
+    "language": "英文",
+    "AuthorID": 2,
+
+    "publicationYear": 2024
+  },
+  {
+    "id": 24,
+    "src": "/static/images/booklist/Learn Enough Python To Be Dangerous.png",
+    "name": "Learn Enough Python To Be Dangerous",
+    "author": "Saša Jurić",
+    "language": "英文",
+    "AuthorID": 2,
+
+    "publicationYear": 2024
+  },
+  {
+    "id": 25,
+    "src": "/static/images/booklist/Learn Enough Javascript To Be Dangerous.png",
+    "name": "Learn Enough Javascript To Be Dangerous",
+    "author": "Avani Trivedi",
+    "language": "英文",
+    "AuthorID": 2,
+
+    "publicationYear": 2024
+  },
+  {
+    "id": 26,
+    "src": "/static/images/booklist/How to Open Source.png",
+    "name": "How to Open Source",
+    "author": "Ángel Sola Orbaiceta",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 27,
+    "src": "/static/images/booklist/Web API Cookbook.png",
+    "name": "Web API Cookbook",
+    "author": "Saša Jurić",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": ,
+    "src": "/static/images/booklist/The Engineering Leader.png",
+    "name": "The Engineering Leader",
+    "author": "Avani Trivedi",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 13,
+    "src": "/static/images/booklist/Linux Pocket Guide 4th Edition.png",
+    "name": "Linux Pocket Guide 4th Edition",
+    "author": "Ángel Sola Orbaiceta",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 14,
+    "src": "/static/images/booklist/Learning OpenTelemetry.png",
+    "name": "Learning OpenTelemetry",
+    "author": "Saša Jurić",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 15,
+    "src": "/static/images/booklist/Head First Software Architecture.png",
+    "name": "Head First Software Architecture",
+    "author": "Avani Trivedi",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 16,
+    "src": "/static/images/booklist/AI新生：破解人机共存密码.png",
+    "name": "AI新生：破解人机共存密码",
+    "author": "Ángel Sola Orbaiceta",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+
+  {
+    "id": 1,
+    "name": "Python 编程：从入门到实践",
+    "src": "https://imagebsj.netlify.app/3042s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 2,
+    "name": "普林斯顿微积分读本修订版",
+    "src": "https://imagebsj.netlify.app/2120s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 3,
+    "name": "Python爬虫实战入门教程",
+    "src": "https://imagebsj.netlify.app/3041s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 4,
+    "name": "网络是怎样连接的",
+    "src": "https://imagebsj.netlify.app/2121s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 5,
+    "name": "Python Crash Course 3rd Edition",
+    "src": "https://imagebsj.netlify.app/3117s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 6,
+    "name": "Fluent Python 2nd Edition",
+    "src": "https://imagebsj.netlify.app/2956s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 7,
+    "name": "算法精解: C语言描述",
+    "src": "https://imagebsj.netlify.app/1505s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 8,
+    "name": "100 Go Mistakes and How to Avoid Them",
+    "src": "https://imagebsj.netlify.app/3111s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 9,
+    "name": "Python for Data Analysis 3rd Edition",
+    "src": "https://imagebsj.netlify.app/2981s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 10,
+    "name": "Introduction to Algorithms 4th Edition",
+    "src": "https://imagebsj.netlify.app/2915s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 11,
+    "name": "JavaScript高级程序设计第4版",
+    "src": "https://imagebsj.netlify.app/3005s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 12,
+    "name": "Essential Math for AI",
+    "src": "https://imagebsj.netlify.app/3330s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 13,
+    "name": "High Performance MySQL 4th Edition",
+    "src": "https://imagebsj.netlify.app/2866s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 14,
+    "name": "Head First Java 3rd Edition",
+    "src": "https://imagebsj.netlify.app/2969s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 15,
+    "name": "Head First Design Patterns 2nd Edition",
+    "src": "https://imagebsj.netlify.app/2456s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  },
+  {
+    "id": 16,
+    "name": "Python for Excel",
+    "src": "https://imagebsj.netlify.app/2588s.jpeg",
+    "author": "",
+    "language": "英文",
+    "publicationYear": ""
+  }
+]

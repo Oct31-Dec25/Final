@@ -1,0 +1,17 @@
+[
+  {
+    "AuthorID": 1,
+    "AuthorName": "Ángel Sola Orbaiceta",
+    "AuthorDescribe": "Angel Sola Orbaiceta is a senior engineer at Glovo. He has worked in the software industry for over a decade creating software for the cloud, OSX, and Windows desktop applications."
+  },
+  {
+    "AuthorID": 2,
+    "AuthorName": "Saša Jurić",
+    "AuthorDescribe": "Saša Jurić is a developer with extensive experience implementing high-volume, concurrent server side systems. "
+  }
+  {
+    "AuthorID": 2,
+    "AuthorName": "Saša Jurić",
+    "AuthorDescribe": "Saša Jurić is a developer with extensive experience implementing high-volume, concurrent server side systems. "
+  }
+]

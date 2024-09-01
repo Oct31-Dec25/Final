@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "src": "http://image.banshujiang.cn/4128s.jpeg?timestamp=1718457247066",
+    "name": "Software Engineering for Data Scientists",
+    "author": "Catherine Nelson",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 1,
+    "src": "http://image.banshujiang.cn/4129s.jpeg?timestamp=1718457474613",
+    "name": "Statistical Tableau",
+    "author": "Ethan Lang",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 1,
+    "src": "http://image.banshujiang.cn/4127s.jpeg?timestamp=1718443852744",
+    "name": "Predictive Analytics for the Modern Enterprise",
+    "author": "ENooruddin Abbas Ali",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 1,
+    "src": "http://image.banshujiang.cn/4126s.jpeg?timestamp=1718443703067",
+    "name": "Modern Data Analytics in Excel",
+    "author": "George Mount",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 1,
+    "src": "http://image.banshujiang.cn/4125s.jpeg?timestamp=1718443588328",
+    "name": "Jason Morgan and Flynn",
+    "author": "George Mount",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  },
+  {
+    "id": 1,
+    "src": "http://image.banshujiang.cn/4124s.jpeg?timestamp=1718443411731",
+    "name": "Learning DevSecOps",
+    "author": "Steve Suehring",
+    "language": "英文",
+    "AuthorID": 1,
+    "publicationYear": 2024
+  }
+]

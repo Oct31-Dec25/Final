@@ -1,0 +1,31 @@
+<template>
+    <div>
+        <div v-for="item in booklist.slice(0, 16)" :key="item.id">
+            {{ item.author }}
+            <!-- <div v-for="item in book(item.author)" :key="item.id">
+                {{ item }}
+            </div> -->
+            {{ book("马丁•福勒") }}
+        </div>
+
+    </div>
+</template>
+
+<script>
+import { mapGetters } from 'vuex';
+export default {
+    data() {
+        return {}
+    },
+    created() {
+        this.$store.dispatch('fetchbooklist');
+    },
+    computed: {
+        ...mapGetters(['booklist']),
+        book() {
+            return this.booklist.find(book => book.author === 马丁•福勒);
+        }
+    },
+}
+</script>
+<style></style>

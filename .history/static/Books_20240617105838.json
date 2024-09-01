@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "src": "/static/images/books/Software Engineering for Data Scientists.png",
+    "name": "Software Engineering for Data Scientists",
+    "author": "Catherine Nelson",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 2,
+    "src": "/static/images/books/Statistical Tableau.png",
+    "name": "Statistical Tableau",
+    "author": "Ethan Lang",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 3,
+    "src": "/static/images/books/Predictive Analytics for the Modern Enterprise.png",
+    "name": "Predictive Analytics for the Modern Enterprise",
+    "author": "ENooruddin Abbas Ali",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 4,
+    "src": "/static/images/books/Modern Data Analytics in Excel.png",
+    "name": "Modern Data Analytics in Excel",
+    "author": "George Mount",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 5,
+    "src": "/static/images/books/重构：改善既有代码的设计（第2版） 重构：改善既有代码的设计（第2版）.png",
+    "name": "重构：改善既有代码的设计（第2版） 重构：改善既有代码的设计（第2版）",
+    "author": "George Mount",
+    "language": "中文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 6,
+    "src": "/static/images/books/Learning DevSecOps.png",
+    "name": "Learning DevSecOps",
+    "author": "Steve Suehring",
+    "language": "英文",
+    "publicationYear": 2024
+  }
+]

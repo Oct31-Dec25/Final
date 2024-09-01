@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "编程语言",
+    "classify": [
+      "ActionScript",
+      "ASP.net",
+      "C",
+      "PowderShell",
+      "TypeScript",
+      "Groovy",
+      "JavaScript",
+      "Objective-C",
+      "F#",
+      "C#",
+      "C++",
+      "CoffeeScript",
+      "Script",
+      "CSS",
+      "Dart",
+      "Elixir",
+      "Erlang",
+      "Go",
+      "HTML5",
+      "Java",
+      "Kotlin",
+      "Lua",
+      "SQL",
+      "R",
+      "Perl",
+      "PHP",
+      "Python",
+      "Ruby",
+      "Rust",
+      "Scala",
+      "Shell",
+      "Swift"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "移动开发",
+    "classify": ["Android", "ios"]
+  },
+  {
+    "id": 2,
+    "name": "操作系统",
+    "classify": ["Linux", "Mac OS X", "Unix", "Windows"]
+  },
+  {
+    "id": 3,
+    "name": "数据库",
+    "classify": [
+      "MongoDB",
+      "MySQL",
+      "Oracle",
+      "SQL Server",
+      "SQLite",
+      "PostgreSQL",
+      "DB2"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "开源软件",
+    "classify": ["Apache项目", "Web开发", "程序开发"]
+  },
+  {
+    "id": 5,
+    "name": "语言",
+    "classify": ["中文", "英文"]
+  },
+  {
+    "name": "年份",
+    "classify": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015",
+      "2014",
+      "2013",
+      "2012",
+      "2011"
+    ]
+  }
+]

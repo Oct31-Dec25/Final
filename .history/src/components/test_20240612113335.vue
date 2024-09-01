@@ -1,0 +1,51 @@
+<template>
+    <div class="">
+        <div class="cards">
+            <img :src="booklist[0].src" alt="" class="shadow-img card">
+            <img :src="booklist[1].src" alt="" class="shadow-img card">
+            <img :src="booklist[2].src" alt="" class="shadow-img card">
+        </div>
+    </div>
+</template>
+
+<script>
+import { mapState } from 'vuex';
+export default {
+    data() {
+        return {}
+    },
+    computed: {
+        ...mapState({
+            classify: state => state.classify,
+            booklist: state => state.booklist,
+            booklistDownload: state => state.booklistDownload,
+        })
+    },
+}
+</script>
+<style>
+.shadow-img {
+    border: 1px solid #d3d3d3;
+    background-color: #fff;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    width: 110px;
+    height: 146px;
+    margin-bottom: 20pxs;
+}
+
+.cards {
+    width: 200px;
+    border: solid 2px;
+}
+
+.cards .card:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: all 0.5s;
+}
+
+.cards:hover>.card:not(:hover) {
+    filter: blur(10px);
+    transform: scale(0.9, 0.9);
+}
+</style>

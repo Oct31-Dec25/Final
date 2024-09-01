@@ -1,0 +1,118 @@
+<template>
+    <div>
+        <nav>
+            <a v-for="item in navList" :key="item.enName">
+                {{ item.name }}
+                <div class=" animation">
+                </div>
+            </a>
+        </nav>
+    </div>
+</template>
+
+<script>
+import { mapState } from 'vuex';
+export default {
+    data() {
+        return {
+            navList: [
+                { name: "HOME", enName: "index" },
+                { name: "ABOUT", enName: "demo" },
+                { name: "BLOG", enName: "blog" },
+                { name: "NEWS", enName: "news" },
+                { name: "CONTACT", enName: "contact" },
+            ],
+        }
+    },
+    computed: {
+        ...mapState({
+            classify: state => state.classify,
+            booklist: state => state.booklist,
+            booklistDownload: state => state.booklistDownload,
+        })
+    },
+    methods: {
+
+    }
+}
+
+</script>
+<style>
+nav {
+    margin: 100px auto;
+    position: relative;
+    width: 500px;
+    height: 50px;
+    background-color: #34495e;
+    border-radius: 8px;
+    font-size: 0;
+    box-shadow: 2px 2px 2px #000;
+}
+
+nav a {
+    width: 100px;
+    height: 100%;
+    line-height: 50px;
+    font-size: 15px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+nav a.animation {
+    position: absolute;
+    height: 100%;
+    height:;
+    top: 0;
+    z-index: 0;
+    transition: all 0.1s ease 0s;
+    border-radius: 8px;
+    width: 100px;
+    left: 0;
+    background-color: '';
+}
+
+/* a.animation:active {
+    left: 0;
+    background-color: #1abc9c;
+} */
+
+/* a:nth-child(1):focus~.animation {
+    left: 0;
+    background-color: #1abc9c;
+} */
+
+/* a:nth-child(2):active~.animation {
+    left: 20%;
+    background-color: #e74c3c;
+}
+
+a:nth-child(3):active~.animation {
+    left: 40%;
+    background-color: #3498db;
+}
+
+a:nth-child(4):active~.animation {
+    left: 300px;
+    background-color: #9b59b6;
+}
+
+a:nth-child(5):active~.animation {
+    left: 400px;
+    background-color: #e67e22;
+} */
+/* a:active {
+    background-color: #e67e22;
+} */
+
+a:active {
+    animation {
+        background-color: #e67e22;
+    }
+}
+</style>

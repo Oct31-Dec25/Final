@@ -1,0 +1,17 @@
+[
+  {
+    "AuthorID": 1,
+    "AuthorName": "Ángel Sola Orbaiceta",
+    "AuthorDescribe": "Angel Sola Orbaiceta is a senior engineer at Glovo. He has worked in the software industry for over a decade creating software for the cloud, OSX, and Windows desktop applications."
+  },
+  {
+    "AuthorID": 2,
+    "AuthorName": "Saša Jurić",
+    "AuthorDescribe": "Saša Jurić is a developer with extensive experience implementing high-volume, concurrent server side systems. "
+  }
+  {
+    "AuthorID": 3,
+    "AuthorName": "Ryan Mitchell",
+    "AuthorDescribe": "数据科学家、软件工程师，目前在波士顿LinkeDrive公司负责开发公司的API和数据分析工具。此前，曾在Abine公司构建网络爬虫和网络机器人。她经常做网络数据采集项目的咨询工作，主要面向金融和零售业。另著有Instant Web Scraping with Java。"
+  }
+]

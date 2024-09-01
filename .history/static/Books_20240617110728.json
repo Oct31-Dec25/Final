@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "src": "/static/images/books/重构：改善既有代码的设计（第2版） 重构：改善既有代码的设计（第2版）.png",
+    "name": "重构：改善既有代码的设计（第2版） 重构：改善既有代码的设计（第2版）",
+    "author": "[美] 马丁•福勒 [译]熊节、林从羽",
+    "language": "中文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 2,
+    "src": "/static/images/books/AI for Absolute Beginners.png",
+    "name": "AI for Absolute Beginners.png",
+    "author": "Oliver Theobald",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 3,
+    "src": "/static/images/books/Web Scraping with Python 3rd Edition.png",
+    "name": "Web Scraping with Python 3rd Edition",
+    "author": "Ryan Mitchell",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 4,
+    "src": "/static/images/books/Statistical Tableau.png",
+    "name": "Statistical Tableau",
+    "author": "Ethan Lang",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 5,
+    "src": "/static/images/books/Software Engineering for Data Scientists.png",
+    "name": "Software Engineering for Data Scientists",
+    "author": "Catherine Nelson",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+
+  {
+    "id": 6,
+    "src": "/static/images/books/Predictive Analytics for the Modern Enterprise.png",
+    "name": "Predictive Analytics for the Modern Enterprise",
+    "author": "Nooruddin Abbas Ali",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 7,
+    "src": "/static/images/books/Modern Data Analytics in Excel.png",
+    "name": "Modern Data Analytics in Excel",
+    "author": "George Mount",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 8,
+    "src": "/static/images/books/Linkerd Up and Running.png",
+    "name": "Linkerd Up and Running.png",
+    "author": "Jason Morgan and Flynn",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 9,
+    "src": "/static/images/books/Learning DevSecOps.png",
+    "name": "Learning DevSecOps",
+    "author": "Steve Suehring",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 10,
+    "src": "/static/images/books/Excel Cookbook.png",
+    "name": "Excel Cookbook",
+    "author": "Dawn Griffiths",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 11,
+    "src": "/static/images/books/Effective TypeScript 2nd Edition.png",
+    "name": "Effective TypeScript 2nd Edition",
+    "author": "Dan Vanderkam",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 12,
+    "src": "/static/images/books/Building Multi-Tenant SaaS Architectures.png",
+    "name": "Building Multi-Tenant SaaS Architectures",
+    "author": "Tod Golding",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 13,
+    "src": "/static/images/books/Apache Iceberg The Definitive Guide.png",
+    "name": "Apache Iceberg The Definitive Guide",
+    "author": "Tomer Shiran, Jason Hughes, and Alex Merced",
+    "language": "英文",
+    "publicationYear": 2024
+  },
+  {
+    "id": 14,
+    "src": "/static/images/books/Apache Iceberg The Definitive Guide.png",
+    "name": "Apache Iceberg The Definitive Guide",
+    "author": "Tomer Shiran, Jason Hughes, and Alex Merced",
+    "language": "英文",
+    "publicationYear": 2024
+  }
+]

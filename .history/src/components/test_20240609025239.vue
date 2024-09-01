@@ -1,0 +1,30 @@
+<template>
+    <div>
+        <div v-for="item in book" :key="item.id">
+            <div>{{ item.name }}</div>
+            <div>{{ item.src }}</div>
+            <img :src="item.src" alt="" class="show-img">
+        </div>
+    </div>
+</template>
+
+<script>
+import { mapState } from 'vuex';
+export default {
+    data() {
+        return {
+        }
+    },
+    computed: {
+        ...mapState({
+            classify: state => state.classify,
+            booklist: state => state.booklist,
+            booklistDownload: state => state.booklistDownload,
+        }),
+        book() {
+            return this.booklist.filter(book => book.author === this.$route.params.author);
+        }
+    },
+}
+</script>
+<style></style>
